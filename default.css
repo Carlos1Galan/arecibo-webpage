@@ -91,7 +91,7 @@ hr {
 	height: 80px;
 	margin: 0 auto;
 	padding: 0px 0px;
-    background-color: black; 
+    background-color: rgba(0,0,0,.5);
 }
 
 /* Logo */
@@ -394,5 +394,7 @@ ul.style3 .first {
 
 #back {
     background: url(images/Cueva-Ventana.jpg) no-repeat;
+    background-position:center;
+    background-size:cover;
 }
 
