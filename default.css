@@ -11,7 +11,6 @@ body {
     font-family: 'Abel', sans-serif;
     font-size: 15px;
     color: #8F8F8F;
-    
 }
 
 h1, h2, h3 {
@@ -165,9 +164,9 @@ hr {
 
 #page {
 	overflow: hidden;
-	width: 1000px;
+	width: 100%;
 	margin: 0px auto;
-	padding: 50px 0px;
+	padding: 50px;
 	color: #8F8F8F;
 }
 
@@ -175,8 +174,9 @@ hr {
 
 #content {
 	float: right;
-	width: 660px;
-	padding: 0px 0px 0px 0px;
+	width: 70%;
+	padding: 0px 10px;
+    margin-right: 60px;
 }
 
 #content h2 {
@@ -198,7 +198,7 @@ hr {
 /** SIDEBAR */
 
 #sidebar {
-	float: left;
+
 	width: 30%;
 	padding: 0px 0px 20px 0px;
 }
