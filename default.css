@@ -112,7 +112,7 @@ hr {
 
 #logo h1 a {
 	text-decoration: none;
-	color: #FFE0EF;
+	color: white;
 }
 
 /* Menu */
@@ -145,14 +145,14 @@ hr {
 	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
-	color: #FFE1EF;
+	color: white;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	background: #D2A602;
 	border-radius: 5px;
 	text-decoration: none;
-	color: #FFE1EF;
+	color: white;
 }
 
 /* Page */
