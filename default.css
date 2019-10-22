@@ -222,14 +222,14 @@ hr {
 	margin: 0;
 	letter-spacing: 1px;
 	line-height: normal;
-	font-size: 14px;
+	font-size: 18px;
 	text-transform: uppercase;
 	text-align: center;
-	color: #FFE0EF;
+	color: white;
 }
 
 #footer a {
-	color: #FFE0EF;
+	color: white;
 }
 
 /* Three Column Footer Content */
