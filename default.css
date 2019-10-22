@@ -243,7 +243,7 @@ hr {
 	overflow: hidden;
 	width: 90%;
 	margin: 0px auto;
-	padding: 50px 0px 50px 0px;
+	padding: 10px 0px 10px 0px;
 	color: #717171;
 }
 
@@ -254,27 +254,39 @@ hr {
 	margin: 0px;
 	padding: 0px 0px 30px 0px;
 	letter-spacing: -1px;
-	font-size: 36px;
-	color: black;
+	font-size: 26px;
+	color: white;
+}
+
+#footer-content h3{
+    margin: 0px;
+	padding: 0px 0px 30px 0px;
+	letter-spacing: -1px;
+	font-size: 18px;
+	color: white;
 }
 
 #footer-content h2 span {
-	color: #3C6E2F;
+    color: #3C6E2F;
 }
 
 
 #footer-content #fbox1 {
 	float: left;
-	width: 60%;
+	width: 30%;
 	margin-right: 5%;
 }
 
 #footer-content #fbox2 {
-	float: right;
+	float: left;
     position: center;
-	width: 40;
+	width: 30%;
 }
 
+#footer-content #fbox3 {
+	float: right;
+	width: 30%;
+}
 
 /* Banner Style */
 
