@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+Wilson B. Marrero Perez
+Brenda Perez Soto
+Hector Martinez Centeno
+Edgar Ortiz Ahorrio
+Lisandra Soto Rodriguez
+David Azzaro Gonzalez
+Cynthia M. Garrasterri
+Jorge Jimenez Martinez
+Sol A. Rivera Lopez
+Vivian Tirado Padilla
+Wilfredo Rios Rosario
+Carmelo Suarez Rivera
+Hector Gonzalez Lopez
+Maria Gonzalez
+=======
+Wilson B. Marrero Perez
+Brenda Perez Soto
+Hector Martinez Centeno
+Edgar Ortiz Ahorrio
+Lisandra Soto Rodriguez
+David Azzaro Gonzalez
+Cynthia M. Garrasterri
+Jorge Jimenez Martinez
+Sol A. Rivera Lopez
+Vivian Tirado Padilla
+Wilfredo Rios Rosario
+Carmelo Suarez Rivera
+Hector Gonzalez Lopez
+Maria Gonzalez
+>>>>>>> f9c7603c7e71bf4054c1e69236f7d3ae7b6971e8
+Apolinar Cintron
